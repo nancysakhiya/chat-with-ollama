@@ -15,6 +15,6 @@ An interactive, local chatbot built using **Django** as the backend web framewor
 ## 🚀 Features
 
 - 💬 Real-time chatbot interaction with Mistral via Ollama.
-- 🌐 Simple and clean web interface using Django templates and JavaScript.
+- 🌐 Simple and clean web interface using Django templates.
 - 🛡️ Local deployment – no internet or OpenAI API required.
 - 📦 Lightweight and privacy-friendly.
